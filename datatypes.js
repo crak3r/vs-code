@@ -1,1 +1,3 @@
-console.log("hii")
+console.log("hii");
+hi;
+console.table(hi);
